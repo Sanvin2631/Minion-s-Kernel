@@ -10,7 +10,7 @@
 CURRENT_DIR="$(pwd)"
 KERNELNAME="Minion's Kernel"
 KERNEL_DIR="$CURRENT_DIR"
-AK_REPO="https://github.com/phoenix-1708/AnyKernel3"
+AK_REPO="https://github.com/Sanvin2631/AnyKernel3"
 AK_BRANCH="sweet"
 AK_DIR="$HOME/AnyKernel3"
 TC_DIR="$HOME/proton-clang"
