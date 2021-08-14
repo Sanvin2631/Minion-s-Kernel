@@ -18,7 +18,7 @@ TC_DIR="$HOME/proton-clang"
 
 # clone_tc - clones proton clang to TC_DIR
 clone_tc() {
-	git clone --depth=1 https://github.com/kdrag0n/proton-clang.git $TC_DIR
+	git clone --depth=1 https://github.com/xyz-prjkt/xRageTC-clang.git $TC_DIR
 }
 
 # Clones anykernel
